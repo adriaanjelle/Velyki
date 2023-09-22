@@ -7,7 +7,7 @@ A simple music display skin for Rainmeter. It has support for the most-used play
 
 As always, right-click the skin and hit "Settings..." to change the settings.
 
-To learn how to set up your music player for Rainmeter skins, visit [this](https://adriaanjelle.github.io/rainmeter/how-to-set-up-your-music-player-with-rainmeter) page.
+To learn how to set up your music player for Rainmeter skins, visit [this](https://github.com/adriaanjelle/Velyki/wiki/How-to-set-up-your-music-player-with-Rainmeter) page.
 
 ----
 
