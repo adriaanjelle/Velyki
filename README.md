@@ -1,7 +1,8 @@
 
 # Velyki
 
-![](Velyki-1500px.jpg)
+![](Velyki-1500px.jpg)  
+![](https://img.shields.io/github/downloads/adriaanjelle/Sienna-2.0/total?style=for-the-badge&labelColor=d6948e&color=d6948e) [![](https://img.shields.io/badge/DeviantArt-FFFFFF?style=for-the-badge&logo=deviantart&logoColor=FFFFFF&color=05CC47)](https://www.deviantart.com/adriaanjelle/art/Sienna-2-0-Updated-2024-06-17-983724087)
 
 A simple music display skin for Rainmeter. It has support for the most-used players, including Spotify. It also features smooth scrolling text! Just pick a song with a very long title and see what happens. You can disable it to save resources (recommended on laptops) if you want to.
 
